@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/**.pyc": true,
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "C:\\python3\\python3.exe"
+}
